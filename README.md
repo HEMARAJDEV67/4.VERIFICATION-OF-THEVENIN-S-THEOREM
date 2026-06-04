@@ -1,4 +1,4 @@
-[4.VERIFICATION-OF-THEVENIN-S-THEOREM
+4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
 
 AIM:
@@ -69,4 +69,3 @@ MARK SPLIT UP:
 RESULT:
 
 Thus Thevinin’s theorem is verified theoretically and practically.
-](https://github.com/HEMARAJDEV67/3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS.git)
